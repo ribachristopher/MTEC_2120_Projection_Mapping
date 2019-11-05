@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 0b843127b9dfff944a121793913164d5
+guid: 42c0b71871dfd4265b1ae3331fa0b592
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable:
   - first:
-      74: 1827226128182048838
-    second: Take 001
+      74: 1989289236423521904
+    second: Default Take
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -35,11 +35,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Take 001
-      takeName: Take 001
-      internalID: 1827226128182048838
+      name: Default Take
+      takeName: Default Take
+      internalID: 1989289236423521904
       firstFrame: 0
-      lastFrame: 17
+      lastFrame: 249
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
